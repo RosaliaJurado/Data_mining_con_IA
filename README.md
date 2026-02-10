@@ -76,7 +76,5 @@ Apoyar la interpretación de resultados y la redacción de conclusiones.
 
 12. Recomendaciones futuras
 Incluir variables adicionales como ventas reales o reseñas cualitativas.
-
 Analizar el efecto combinado de precio y número de reseñas.
-
 Aplicar técnicas más avanzadas como regresión múltiple o análisis por género literario.
